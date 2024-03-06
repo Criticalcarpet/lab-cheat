@@ -1,0 +1,13 @@
+body{
+    background-color: gainsboro;
+    font-size: 70px;
+}
+ul li {
+    margin-bottom: 10px;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color: red;
+}
